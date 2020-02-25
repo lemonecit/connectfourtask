@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/connectfourtask/static/css/main.f2aa3425.chunk.css",
+    "main.css": "/connectfourtask/static/css/main.8ecba34a.chunk.css",
     "main.js": "/connectfourtask/static/js/main.cbc387e2.chunk.js",
     "main.js.map": "/connectfourtask/static/js/main.cbc387e2.chunk.js.map",
     "runtime-main.js": "/connectfourtask/static/js/runtime-main.1838f3aa.js",
@@ -8,15 +8,15 @@
     "static/js/2.7b342cb3.chunk.js": "/connectfourtask/static/js/2.7b342cb3.chunk.js",
     "static/js/2.7b342cb3.chunk.js.map": "/connectfourtask/static/js/2.7b342cb3.chunk.js.map",
     "index.html": "/connectfourtask/index.html",
-    "precache-manifest.f5b9a162565b5066d5d75bb776301008.js": "/connectfourtask/precache-manifest.f5b9a162565b5066d5d75bb776301008.js",
+    "precache-manifest.9202f415fb38b74d830466c9c1f2f5d2.js": "/connectfourtask/precache-manifest.9202f415fb38b74d830466c9c1f2f5d2.js",
     "service-worker.js": "/connectfourtask/service-worker.js",
-    "static/css/main.f2aa3425.chunk.css.map": "/connectfourtask/static/css/main.f2aa3425.chunk.css.map",
+    "static/css/main.8ecba34a.chunk.css.map": "/connectfourtask/static/css/main.8ecba34a.chunk.css.map",
     "static/js/2.7b342cb3.chunk.js.LICENSE.txt": "/connectfourtask/static/js/2.7b342cb3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1838f3aa.js",
     "static/js/2.7b342cb3.chunk.js",
-    "static/css/main.f2aa3425.chunk.css",
+    "static/css/main.8ecba34a.chunk.css",
     "static/js/main.cbc387e2.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa7d4345fd83dae3716b40325555ab6f",
+    "revision": "09507a008ebafd1b74c7898b31ac5516",
     "url": "/connectfourtask/index.html"
   },
   {
-    "revision": "48bb36cbba4101a4432c",
-    "url": "/connectfourtask/static/css/main.f2aa3425.chunk.css"
+    "revision": "5af07b81de786602c7f7",
+    "url": "/connectfourtask/static/css/main.8ecba34a.chunk.css"
   },
   {
     "revision": "0dfe699aa23201a4d015",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/connectfourtask/static/js/2.7b342cb3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "48bb36cbba4101a4432c",
+    "revision": "5af07b81de786602c7f7",
     "url": "/connectfourtask/static/js/main.cbc387e2.chunk.js"
   },
   {
